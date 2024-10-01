@@ -1,1 +1,1 @@
-It is a chrome extension which predicts what you would open whenth chrome starts up and prompts you whetehr you want to open it or not.
+It is a chrome extension which predicts what you would open when the chrome starts up and asks you whether you want to open it or not.
